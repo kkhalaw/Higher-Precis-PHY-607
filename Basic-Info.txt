@@ -1,0 +1,4 @@
+Goal -- make a number type with higher precision than double precision  
+
+Teacher Hint -- mathematical operations are the tricky part of this project; 
+                a good method to make this number type would be to use scientific notation with 2 integers in matais and the exponent. 
